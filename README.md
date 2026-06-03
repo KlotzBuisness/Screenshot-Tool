@@ -20,7 +20,6 @@ This project aims to automate the capture of UI workflows by taking structured s
 
 - ## Tech Stack
 - C# (.NET)
-- WPF / WinForms (planned)
 - File System API
 
 ---
