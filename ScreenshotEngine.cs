@@ -1,7 +1,7 @@
 using System;
 using System.IO;
 
-namespace GenericScreenshotTool
+namespace ScreenshotTool
 {
     public class ScreenshotEngine
     {
