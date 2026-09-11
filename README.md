@@ -1,4 +1,4 @@
-# GenericScreenshotTool
+# Screenshot-Tool
 
 ## Problem
 Modern applications require structured documentation and reproducible UI states for training, testing, and onboarding purposes.
