@@ -1,4 +1,4 @@
-# UI Workflow Capture Tool
+# GenericScreenshotTool
 
 ## Problem
 Modern applications require structured documentation and reproducible UI states for training, testing, and onboarding purposes.
