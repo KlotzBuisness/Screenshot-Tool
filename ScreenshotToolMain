@@ -1,5 +1,6 @@
-public void screenshotFunction()
+public void ScreenshotTool()
 {
+    Log.Info("Screenshot started");
     // launces every Helper Section
     var helper = new ScreenshotHelper();
     var engine = new ScreenshotEngine(helper);
